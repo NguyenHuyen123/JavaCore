@@ -22,7 +22,7 @@ public class Baitap_Buoi2 {
         System.out.println("Thương của 2 số a và b: " + div);
     }
 
-    // bt6: Nhap ten SP, số lượng và đơn giá
+    // Bt6: Nhap ten SP, số lượng và đơn giá
     // a. tính tiền
     // b. thuế giá trị gia tăng
     String name;
